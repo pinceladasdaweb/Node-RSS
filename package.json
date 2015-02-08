@@ -1,0 +1,33 @@
+{
+    "name": "node-rss",
+    "description": "Example of how to create an RSS Feed with Node.js",
+    "main": "app.js",
+    "version": "0.0.1",
+    "private": true,
+    "author": "Pedro Rogério",
+    "homepage": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "express": "~4.11.0",
+        "feed": "~0.2.6"
+    },
+    "devDependencies": {
+        "nodemon": "*"
+    },
+    "keywords": [
+        "feed",
+        "rss",
+        "atom"
+    ],
+    "repository": "https://github.com/pinceladasdaweb/Node-RSS",
+    "bugs": {
+        "url": "https://github.com/pinceladasdaweb/Node-RSS/issues"
+    },
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+    }]
+}

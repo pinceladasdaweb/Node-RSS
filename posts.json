@@ -1,0 +1,70 @@
+[{
+    "title": "Github Repo Widget",
+    "link": "http://www.pinceladasdaweb.com.br/blog/2014/10/23/github-repo-widget/",
+    "description": "Recentemente visitando o blog New Media Campaigns acabei encontrando um plugin jQuery bem interessante, o: GitHub jQuery Repo Widget. Sua função é basicamente montar um Widget de um repositório no ...",
+    "author": [
+        {
+            "name":  "Pedro Rogério",
+            "email": "pedrorogerio@pinceladasdaweb.com.br",
+            "link":  "http://www.pinceladasdaweb.com.br/blog/"
+        }
+    ],
+    "date": "2014-10-23T06:01:26",
+    "image": "http://www.pinceladasdaweb.com.br/blog/wp-content/uploads/2014/10/github-460x190.png"
+},
+{
+    "title": "Page Scroll Progress Indicator",
+    "link": "http://www.pinceladasdaweb.com.br/blog/2014/10/13/page-scroll-progress-indicator/",
+    "description": "Você já deve ter visto em blogs alguma vez um indicador de progresso de leitura, seja ele indicando o quanto daquele post você já leu ou o tempo estimado para ...",
+    "author": [
+        {
+            "name":  "Pedro Rogério",
+            "email": "pedrorogerio@pinceladasdaweb.com.br",
+            "link":  "http://www.pinceladasdaweb.com.br/blog/"
+        }
+    ],
+    "date": "2014-10-13T10:54:26",
+    "image": "http://www.pinceladasdaweb.com.br/blog/wp-content/uploads/2014/10/progress-indicator-460x190.jpg"
+},
+{
+    "title": "Ajax Contact Form",
+    "link": "http://www.pinceladasdaweb.com.br/blog/2014/09/16/ajax-contact-form/",
+    "description": "Uma feature muito comum nos sites são os formulários de contato. Formulários de contato padrão podem funcionar muito bem, mas você pode melhorar essa experiência com Ajax submetendo o form ...",
+    "author": [
+        {
+            "name":  "Pedro Rogério",
+            "email": "pedrorogerio@pinceladasdaweb.com.br",
+            "link":  "http://www.pinceladasdaweb.com.br/blog/"
+        }
+    ],
+    "date": "2014-09-16T11:09:05",
+    "image": "http://www.pinceladasdaweb.com.br/blog/wp-content/uploads/2014/09/ajax-460x190.jpg"
+},
+{
+    "title": "Node.js Twitter Client",
+    "link": "http://www.pinceladasdaweb.com.br/blog/2014/09/12/node-js-twitter-client/",
+    "description": "A algum tempo atrás criei um client de twitter em PHP e VanillaJS para o usuário poder mostrar onde quiser, em seu site, blog, portal, as últimas atualizações de uma …",
+    "author": [
+        {
+            "name":  "Pedro Rogério",
+            "email": "pedrorogerio@pinceladasdaweb.com.br",
+            "link":  "http://www.pinceladasdaweb.com.br/blog/"
+        }
+    ],
+    "date": "2014-09-12T10:34:26",
+    "image": "http://www.pinceladasdaweb.com.br/blog/wp-content/uploads/2014/09/nodejs-460x190.png"
+},
+{
+    "title": "Nodejs Web Scraping",
+    "link": "http://www.pinceladasdaweb.com.br/blog/2014/09/08/nodejs-web-scraping/",
+    "description": "Web Scraping é uma técnica para extração de dados onde você puxa informações de sites de terceiros. Em uma explicação mais clara, eu faço uma requisição a um site, pego …",
+    "author": [
+        {
+            "name":  "Pedro Rogério",
+            "email": "pedrorogerio@pinceladasdaweb.com.br",
+            "link":  "http://www.pinceladasdaweb.com.br/blog/"
+        }
+    ],
+    "date": "2014-09-08T16:39:26",
+    "image": "http://www.pinceladasdaweb.com.br/blog/wp-content/uploads/2014/09/nodejs-460x190.png"
+}]
